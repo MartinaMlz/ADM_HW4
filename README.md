@@ -3,7 +3,7 @@
 Repository for the fourt-th homework
 
 Group composed by:
--Martina Milazzo
--Edoardo Di Martino
--Jacopo Nudo
--Filippo Andreani
+- Martina Milazzo
+- Edoardo Di Martino
+- Jacopo Nudo
+- Filippo Andreani
