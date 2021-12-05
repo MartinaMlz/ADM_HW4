@@ -9,7 +9,7 @@
 - Filippo Andreani
 
 ## Content of the repository:
-- homowork4_main.ipynb : main notebook with every output
+- homework4_main.ipynb : main notebook with every output
 - utility_functions.py : .py file with every function used in the first part of the homework
 - all_peaks.csv: file in which we save the set of all the peaks' songs
 - dataSignature.csv: file in which we save the whole signature matrix created from the dataset
